@@ -1,0 +1,122 @@
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.exe.config
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.exe
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.pdb
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\MainWindow.g.cs
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\App.g.cs
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF_MarkupCompile.cache
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF_MarkupCompile.lref
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.exe
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.pdb
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\MainWindow.baml
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.g.resources
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.Properties.Resources.resources
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\LastFmWpfMvvmClient.csproj.GenerateResource.Cache
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\Views\ArtistSearchView.g.cs
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\App.baml
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\Views\ArtistSearchView.baml
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\LastFmWpfMvvmClient.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\LastFmWpfMvvmClient.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\Views\ArtistSearchView.g.cs
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\App.g.cs
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF_MarkupCompile.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF_MarkupCompile.lref
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\App.baml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\MainWindow.baml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\Views\ArtistSearchView.baml
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.g.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.Properties.Resources.resources
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\LastFmWpfMvvmClient.csproj.GenerateResource.Cache
+\\10.10.50.100\Share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.exe.config
+\\10.10.50.100\Share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.exe
+\\10.10.50.100\Share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.pdb
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.exe
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.pdb
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\Newtonsoft.Json.dll
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\Newtonsoft.Json.xml
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\LastFmWpfMvvmClient.csprojResolveAssemblyReference.cache
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\MainWindow.g.cs
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\Views\ArtistSearchView.g.cs
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\App.g.cs
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF_MarkupCompile.cache
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF_MarkupCompile.lref
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\App.baml
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\MainWindow.baml
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\Views\ArtistSearchView.baml
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.g.resources
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.Properties.Resources.resources
+\\10.10.50.100\share\Public\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\LastFmWpfMvvmClient.csproj.GenerateResource.Cache
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.exe.config
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.exe
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.pdb
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\Newtonsoft.Json.dll
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\Newtonsoft.Json.xml
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\LastFmWpfMvvmClient.csprojResolveAssemblyReference.cache
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\MainWindow.g.cs
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\Views\ArtistSearchView.g.cs
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\App.g.cs
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF_MarkupCompile.cache
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF_MarkupCompile.lref
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\App.baml
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\MainWindow.baml
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\Views\ArtistSearchView.baml
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.g.resources
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.Properties.Resources.resources
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\LastFmWpfMvvmClient.csproj.GenerateResource.Cache
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.exe
+F:\Formations\Technobel\Dotnet developer\Cours\Dotnet_Dev\_Développer des applications WP8 en C# + remédiation-self study 1 jour\Corrections\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.pdb
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.exe.config
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.exe
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.pdb
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.exe
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.pdb
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\Newtonsoft.Json.dll
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\Newtonsoft.Json.xml
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\LastFmWpfMvvmClient.csprojResolveAssemblyReference.cache
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\MainWindow.g.cs
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\Views\ArtistSearchView.g.cs
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\App.g.cs
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF_MarkupCompile.cache
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF_MarkupCompile.lref
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\App.baml
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\MainWindow.baml
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\Views\ArtistSearchView.baml
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.g.resources
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.Properties.Resources.resources
+D:\sandbox\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\LastFmWpfMvvmClient.csproj.GenerateResource.Cache
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.exe.config
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.exe
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\WebClientWPF.pdb
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\LastFmWpfMvvmClient.csprojAssemblyReference.cache
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\MainWindow.g.cs
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\Views\ArtistSearchView.g.cs
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\App.g.cs
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF_MarkupCompile.cache
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF_MarkupCompile.lref
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\App.baml
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\MainWindow.baml
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\Views\ArtistSearchView.baml
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.g.resources
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.Properties.Resources.resources
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\LastFmWpfMvvmClient.csproj.GenerateResource.cache
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\LastFmWpfMvvmClient.csproj.CoreCompileInputs.cache
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\LastFmWpfMvvmClient.csproj.CopyComplete
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.exe
+C:\Users\laure\Documents\Projets\Projets\LastFmWpfMvvmClient\WebClientWPF\obj\Debug\WebClientWPF.pdb

@@ -1,0 +1,17 @@
+c:\users\junge\documents\visual studio 2015\Projects\WebClientWPF\WebClientWPF\bin\Debug\WebClientWPF.exe.config
+c:\users\junge\documents\visual studio 2015\Projects\WebClientWPF\WebClientWPF\bin\Debug\WebClientWPF.exe
+c:\users\junge\documents\visual studio 2015\Projects\WebClientWPF\WebClientWPF\bin\Debug\WebClientWPF.pdb
+c:\users\junge\documents\visual studio 2015\Projects\WebClientWPF\WebClientWPF\obj\Debug\WebClientWPF.csprojResolveAssemblyReference.cache
+c:\users\junge\documents\visual studio 2015\Projects\WebClientWPF\WebClientWPF\obj\Debug\MainWindow.g.cs
+c:\users\junge\documents\visual studio 2015\Projects\WebClientWPF\WebClientWPF\obj\Debug\App.g.cs
+c:\users\junge\documents\visual studio 2015\Projects\WebClientWPF\WebClientWPF\obj\Debug\WebClientWPF_MarkupCompile.cache
+c:\users\junge\documents\visual studio 2015\Projects\WebClientWPF\WebClientWPF\obj\Debug\WebClientWPF_MarkupCompile.lref
+c:\users\junge\documents\visual studio 2015\Projects\WebClientWPF\WebClientWPF\obj\Debug\MainWindow.baml
+c:\users\junge\documents\visual studio 2015\Projects\WebClientWPF\WebClientWPF\obj\Debug\WebClientWPF.g.resources
+c:\users\junge\documents\visual studio 2015\Projects\WebClientWPF\WebClientWPF\obj\Debug\WebClientWPF.Properties.Resources.resources
+c:\users\junge\documents\visual studio 2015\Projects\WebClientWPF\WebClientWPF\obj\Debug\WebClientWPF.csproj.GenerateResource.Cache
+c:\users\junge\documents\visual studio 2015\Projects\WebClientWPF\WebClientWPF\obj\Debug\WebClientWPF.exe
+c:\users\junge\documents\visual studio 2015\Projects\WebClientWPF\WebClientWPF\obj\Debug\WebClientWPF.pdb
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfClient\WebClientWPF\bin\Debug\WebClientWPF.exe.config
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfClient\WebClientWPF\obj\Debug\WebClientWPF.exe
+C:\Users\junge\Documents\Visual Studio 2015\Projects\LastFmWpfClient\WebClientWPF\obj\Debug\WebClientWPF.pdb
